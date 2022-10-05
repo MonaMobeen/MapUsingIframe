@@ -1,0 +1,5 @@
+.arrange{
+    display: flex;
+    padding:  0 15px;
+    gap: 5rem;
+}
